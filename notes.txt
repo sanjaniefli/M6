@@ -1,0 +1,29 @@
+Pertemuan 1
+Pada praktikum pertama, saya belajar mengenai konsep dasar Thread dan Multi-Thread dalam bahasa pemrograman Python. Thread merupakan satuan terkecil dalam proses eksekusi, dan setiap program setidaknya memiliki satu main thread untuk menjalankan proses utama.
+
+Selama sesi praktikum ini, saya tidak mengalami hambatan berarti dalam menyelesaikan tugas-tugas yang diberikan. Hal ini berkat bimbingan dari kakak asisten yang menjelaskan materi dengan sangat baik dan mudah dipahami.
+
+Pertemuan 2
+Materi pada praktikum kedua membahas pengenalan API dan format data JSON. API atau Application Programming Interface berfungsi sebagai jembatan komunikasi antar sistem atau aplikasi agar dapat saling bertukar informasi.
+
+Saya cukup lancar dalam mengikuti praktikum kali ini. Proses pengerjaan tugas berjalan mulus karena penjelasan dari kakak-kakak asisten yang membantu membuat materi yang awalnya terlihat rumit menjadi lebih mudah dimengerti.
+
+Pertemuan 3
+Di pertemuan ketiga, saya mempelajari framework dalam Python, yang merupakan kerangka kerja untuk membangun aplikasi dengan lebih terstruktur dan efisien. Framework menyediakan berbagai alat bantu dan komponen yang mempercepat proses pengembangan.
+
+Tugas-tugas dalam praktikum ini dapat saya kerjakan dengan baik. Sama seperti sebelumnya, penyampaian materi dari para asisten cukup jelas dan membuat saya tidak terlalu kesulitan dalam memahami konsep-konsep barunya.
+
+Pertemuan 4
+Pada praktikum keempat, materi yang dipelajari adalah mengenal dan menggunakan Flask, sebuah framework ringan berbasis Python untuk pengembangan web. Flask dibangun dengan memanfaatkan Werkzeug sebagai WSGI toolkit dan Jinja2 untuk template engine.
+
+Saya tidak menemui banyak kendala dalam menyelesaikan praktik kali ini. Bimbingan dari asisten sangat membantu dalam memahami cara membuat dan menjalankan aplikasi Flask secara langsung.
+
+Pertemuan 5
+Di pertemuan kelima, saya mempelajari tentang pembuatan API endpoint menggunakan Flask. API merupakan metode komunikasi antara client dan server melalui proses request dan response, yang menjadi fondasi dari aplikasi web modern.
+
+Seluruh instruksi dan latihan pada praktikum ini dapat saya jalankan dengan baik. Seperti pertemuan sebelumnya, kakak-kakak asisten memberikan arahan yang sangat jelas sehingga proses belajar berjalan lancar.
+
+Pertemuan 6
+Pada praktikum keenam, saya diperkenalkan pada pemrograman visual dengan PyQt, yaitu library Python yang memungkinkan kita membangun aplikasi GUI berbasis framework Qt. PyQt dapat dijalankan di berbagai sistem operasi seperti Windows, Linux, maupun macOS.
+
+Selama sesi ini, saya tidak mengalami kesulitan yang berarti. Penjelasan yang runtut dan pendampingan langsung dari asisten sangat membantu saya memahami dasar-dasar penggunaan PyQt dalam membangun antarmuka pengguna.
